@@ -32,5 +32,5 @@
       "last 1 safari version"
     ]
   },
-  "proxy": "https://contact-01-api.herokuapp.com/"
+  "proxy": "https://contact-01-api.herokuapp.com"
 }
